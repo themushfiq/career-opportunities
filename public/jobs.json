@@ -1,0 +1,119 @@
+[
+  {
+    "id": "609de80f498a8029b9ac663d",
+    "title": "Technical Database Engineer",
+    "company": "Google LLC.",
+    "type": {
+      "remote": "Remote",
+      "onsite": "Onsite",
+      "fullTime": "Full-time"
+    },
+    "location": "New York",
+    "salary": "80k-100k Per Month",
+    "phone": "(123) 456-7890",
+    "email": "sundor@gmail.com",
+    "description": "For software and web applications, Algorithm designers are in charge of coming up with interesting and useful interfaces. Layout, visual design, and user interface interactivity are all included in this responsibility R Working together with multidisciplinary teams To make sure that the user interface is in line with business and technical requirements, UI/UX designers frequently collaborate closely with other teams, such as product management, engineering, and marketing. You must be able to articulate your design concepts clearly to other team members and solicit their input.",
+    "requirement": "Requirement 1, Requirement 2, Requirement 3",
+    "experience": "2-3 Years",
+    "education": "Bachelor's degree in Computer Science",
+    "image": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/images/google-1.png"
+  },
+  {
+    "id": "60a91a53498a8029b9ac6e49",
+    "title": "Software Engineer",
+    "company": "Tesla",
+    "type": {
+      "remote": "Remote",
+      "onsite": "Onsite",
+      "fullTime": "Full-time"
+    },
+    "location": "California",
+    "salary": "50k-80k Per Month",
+    "phone": "(783) 456-7890",
+    "email": "elon@xyzcorp.com",
+    "description": "Establishing close collaboration among the different expert groups implies that each planning decision has to be documented and communicated among the entire planning team, and impact analysis on other work in progress has to be performed. What is needed is an efficient toolset for creating documentation and for classifying, tracking, analyzing and reporting every single documentation item, together with a set of rules for specification and tool usage.",
+    "requirement": "Requirement 1, Requirement 2, Requirement 3",
+    "experience": "2-3 Years",
+    "education": "Master's degree in Computer Science",
+    "image": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/images/tesla-9%201.png"
+  },
+  {
+    "id": "5fb6a5a6b5ee6e375aa2a5e6",
+    "title": "Graphics Designer",
+    "company": "Netflix",
+    "type": {
+      "remote": "Remote",
+      "onsite": "Onsite",
+      "fullTime": "Full-time"
+    },
+    "location": "Los Gatos",
+    "salary": "100-120k Per Month",
+    "phone": "(890) 456-7890",
+    "email": "tommy@1llc.com",
+    "description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "responsibility": "RCollaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "requirement": "Requirement 1, Requirement 2, Requirement 3",
+    "experience": "4-5 Years",
+    "education": "Bachelor's degree in Graphics Design or equivalent",
+    "image": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/images/netflix-4%201.png"
+  },
+  {
+    "id": "60712a0df0a68b01cf04e012",
+    "title": "Full-stack Developer",
+    "company": "Google LLC.",
+    "type": {
+      "remote": "Remote",
+      "onsite": "Onsite",
+      "fullTime": "Full-time"
+    },
+    "location": "Florida",
+    "salary": "120-150k Per Month",
+    "phone": "(123) 456-7890",
+    "email": "smith@3llc.com",
+    "description": "We are looking for a skilled web developer who will be responsible for developing and/or designing websites for our company. You will be working alongside a team of other developers in creating, maintaining, and updating our websites. In order for you to succeed in this role, you will need to be proficient in JavaScript, HTML, CSS, and have solid knowledge and experience in programming applications.",
+    "requirement": "Requirement 1, Requirement 2, Requirement 3",
+    "experience": "5-7 Years",
+    "education": "Bachelor's degree in Computer Science or equivalent",
+    "image": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/images/google-1.png"
+  },
+  {
+    "id": "5d873f836c534e91a8d7fa3e",
+    "title": "MERN-stack Developer",
+    "company": "Twitter LLC",
+    "type": {
+      "remote": "Remote",
+      "onsite": "Onsite",
+      "fullTime": "Full-time"
+    },
+    "location": "New Jersey",
+    "salary": "90k-150k Per Month",
+    "phone": "(123) 456-7890",
+    "email": "jwel@23llc.com",
+    "description": "We are looking for a skilled MERN-stack developer who will be responsible for developing and/or designing websites for our company. You will be working alongside a team of other developers in creating, maintaining, and updating our websites. In order for you to succeed in this role, you will need to be proficient in JavaScript, HTML, CSS, and have solid knowledge and experience in programming applications.",
+    "requirement": "Requirement 1, Requirement 2, Requirement 3",
+    "experience": "3-4 Years",
+    "education": "Bachelor's degree in Computer Science or equivalent",
+    "image": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/images/twitter.png"
+  },
+  {
+    "id": "60b3f900498a8029b9ac8495",
+    "title": "Senior Software Developer",
+    "company": "Instagram LLC",
+    "type": {
+      "remote": "Remote",
+      "onsite": "Onsite",
+      "fullTime": "Full-time"
+    },
+    "location": "New York",
+    "salary": "50k-100k Per Month",
+    "phone": "(123) 456-7890",
+    "email": "kimkar@69llc.com",
+    "description": "At the center of all of this technological development is the software developer the idea cultivator, the creator, the editor, and the deliverer all in one. And as companies have realized the incredible value that software developers offer as they help organizations accomplish their growth goals, more positions in the field exist now than they ever have before. In this guide, we detail what it means to be a software developer, how to become one, what skills are necessary for the role, what kind of money you can expect to make in a yearly salary, and the positions career outlook.",
+    "requirement": "Requirement 1, Requirement 2, Requirement 3",
+    "experience": "2-3 Years",
+    "education": "Bachelor's degree in Computer Science or equivalent",
+    "image": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/images/insta.png"
+  }
+
+
+]

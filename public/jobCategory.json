@@ -1,0 +1,30 @@
+[
+    {
+        "id": "89fc6a1-4b31-4f6f-a321-4f9b487d4de8",
+        "jobCategoryName": "Software Development",
+        "totalJobAvailable": "100+",
+        "imageLink": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/chip%201.png"
+      },
+      
+      {
+        "id": "b89ebd61-19a7-4b1c-9867-77b5d0b482dc",
+        "jobCategoryName": "Marketing",
+        "totalJobAvailable": "20",
+        "imageLink": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/accounts%201.png"
+      },
+      
+      {
+        "id": "yui78517a-ccf9-4640-b53f-c1a08a2622e5",
+        "jobCategoryName": "Human Resources",
+        "totalJobAvailable": "50+",
+        "imageLink": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/business%201.png"
+      },
+      
+      {
+        "id": "495faefbe-12a7-41fb-bb5f-b65b1c44f3d3",
+        "jobCategoryName": "Graphic Design",
+        "totalJobAvailable": "15",
+        "imageLink": "https://raw.githubusercontent.com/themushfiq/Images-Icons/main/social-media%201.png"
+      }
+      
+]
